@@ -1,0 +1,24 @@
+/* header */
+nav>a , li>a{
+    text-decoration: none;
+    display: inline;
+    color: white;
+}
+ul,li{
+    display: inline;
+   margin-left: 16px;
+
+}
+div.container-fluid{
+    /* background-image:; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.icons{
+   margin-left: 420px;
+}
+/* home */
+.carousel-item{
+    height: 550px;
+}
