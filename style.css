@@ -9,16 +9,16 @@ ul,li{
    margin-left: 16px;
 
 }
-div.container-fluid{
-    /* background-image:; */
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 600px;
-}
+
 .icons{
    margin-left: 420px;
 }
 /* home */
-.carousel-item{
-    height: 550px;
+.carousel{
+    height: 50%;
 }
+.card-img-top{
+    height: 70%;
+    margin-top: 5px;
+}
+
